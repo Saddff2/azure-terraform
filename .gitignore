@@ -1,0 +1,4 @@
+kubespray/
+.env
+.terraform*
+terraform.*
